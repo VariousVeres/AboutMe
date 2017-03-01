@@ -8,11 +8,16 @@ body   {
 background: url(img/735470284.jpg);
 }
 
-
 .wrapper   {
 background:white;
 width:980px;
-height:1250px;
+height:1200px;
+margin:auto;
+}
+.wrapper-high   {
+background:white;
+width:980px;
+height:1515px;
 margin:auto;
 }
 .wrapper-high   {
